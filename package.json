@@ -1,0 +1,21 @@
+{
+  "name": "modern-color-theme",
+  "displayName": "Modern Color Theme",
+  "description": "This theme is a theme based on modern colors with good contrasts and lovely colors",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Modern Color Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Modern Color Theme-color-theme.json"
+      }
+    ]
+  }
+}
